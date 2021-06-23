@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArwaAshawy
 - 👀 I’m interested in FRONTEND DEVELOPING / FULL-STACK 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arwa.ashawy@gmail.com
 
